@@ -11,7 +11,7 @@
 
    - **🥩 Steak : Steak de bœuf grillé à la perfection.**
 
-    -  **🧀 Fromage : Tranche de cheddar fondant.**
+    - **🧀 Fromage : Tranche de cheddar fondant.**
 
    - **🥓 Bacon : Tranche de bacon croustillante.**
 
